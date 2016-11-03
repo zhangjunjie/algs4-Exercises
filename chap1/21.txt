@@ -1,0 +1,4 @@
+Jerry 3 6
+Jane 21 21
+Tom 2 0
+Kate 0 21
